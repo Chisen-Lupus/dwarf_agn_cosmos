@@ -1,6 +1,7 @@
 # dwarf_agn_cosmos
 
 File stucture:
+
 hsc-ssp_download.ipynb - Download the spectra from the individual programs and plot them
 
 hsc-ssp_pyqsofit.ipynb - Fit the spectra
